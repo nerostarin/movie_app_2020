@@ -2,6 +2,15 @@
 ## Movie_App_2020
 
 React Js Foundamentals Course 2020
+## 10월07일
+>1.  prop-types 설치 package.json에서 확인 
+>2.  isRequired 삭제시 실행이되는 것을 확인
+>3.  class생성시에 대문자를 사용한다
+>4.  class형 component는 component를 반드시 상속받아야 한다
+>5.  class에서 리턴을 사용하기위해 render라는 함수를 사용한다
+>6.  state, current, setState 사용 및 활용하여 숫자 증가 감소하는 프로그램 코딩
+
+
 
 ## 09월25일
 >1. import를 사용하여 이미지를 불로오는 것을 학습.
