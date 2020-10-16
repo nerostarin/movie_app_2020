@@ -2,6 +2,14 @@
 ## Movie_App_2020
 
 React Js Foundamentals Course 2020
+## 10월16일
+>1.  constructor()함수를 사용하여 f12키로 콘솔창에 나타나는 것을 확인 랜더보다 먼저 실행하는 것을 알수있다
+>2.  componentDidMount()함수 위와 같은 형태로 확인하며 랜더보다 나중에 실행하는 것을 알수있다
+>3.  componentDidUpdate()함수는 화면이 업데이트 되어야 콘솔창에 나타난다
+>4.  json파일을 이용하여 페이지 제작
+
+
+
 ## 10월07일
 >1.  prop-types 설치 package.json에서 확인 
 >2.  isRequired 삭제시 실행이되는 것을 확인
