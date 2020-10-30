@@ -3,6 +3,13 @@
 
 React Js Foundamentals Course 2020
 ## 10월16일
+>1.  전시간에 코딩했던 영화앱 만들기 복습
+>2.  true false를 이용하여 isLodaing의  loading->ready 출력 
+>3.  Movie 컴포넌트 생성
+>4.  rating 으로 sort하여 무비쪽으로 받음
+
+
+## 10월16일
 >1.  constructor()함수를 사용하여 f12키로 콘솔창에 나타나는 것을 확인 랜더보다 먼저 실행하는 것을 알수있다
 >2.  componentDidMount()함수 위와 같은 형태로 확인하며 랜더보다 나중에 실행하는 것을 알수있다
 >3.  componentDidUpdate()함수는 화면이 업데이트 되어야 콘솔창에 나타난다

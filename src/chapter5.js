@@ -35,8 +35,8 @@ import React from 'react';
       console.log('render!');
     return (
         <div>
-          <h1>The number is:{this.state.count}</h1>
-    <button onClick = {this.add}>Add</button> &nbsp;&nbsp;&nbsp;
+            <h1>The number is:{this.state.count}</h1>
+            <button onClick = {this.add}>Add</button> &nbsp;&nbsp;&nbsp;
             <button onClick = {this.minus}>Minus</button>
         </div>
       );
