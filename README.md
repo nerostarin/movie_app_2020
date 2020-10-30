@@ -2,7 +2,7 @@
 ## Movie_App_2020
 
 React Js Foundamentals Course 2020
-## 10월16일
+## 10월30일
 >1.  전시간에 코딩했던 영화앱 만들기 복습
 >2.  true false를 이용하여 isLodaing의  loading->ready 출력 
 >3.  Movie 컴포넌트 생성
