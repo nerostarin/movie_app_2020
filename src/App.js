@@ -1,10 +1,12 @@
 import React from 'react';
 import axios from 'axios';
+import Movie from './Movie';
+import './App.css'
  class App extends React.Component
  {
    state = {
      isLoading: true,
-     movies: [],
+     movies: []
    }
    getMovies = async() =>
    {
@@ -24,11 +26,24 @@ import axios from 'axios';
     {
       const {isLoading, movies} = this.state;
     return ( 
-        <div>
-            {isLoading ? 'Loading': movies.map(
-              (movie) => this.state
+        <article className="container">
+            {isLoading ? (<div className="loader"><span className="loader-text">'Loading...'</span></div>) 
+            : (<div>{movies.map(
+              (movie) => {
+                return(
+                  <Movie
+                  key = {movie.id} 
+                  id = {movie.id}
+                  year = {movie.year}
+                  title = {movie.title}
+                  summary = {movie.summary}
+                  poster = {movie.medium_cover_image}
+                  genres = {movie.genres}
+                  />
+                )})
+               }</div> 
             )}
-        </div> 
+        </article> 
       );
     }
  }

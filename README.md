@@ -2,6 +2,14 @@
 ## Movie_App_2020
 
 React Js Foundamentals Course 2020
+## 11월06일
+>1.  콘솔로 movie의 데이터 값이 있는지 확인 후 페이지에 출력 
+>2.  카멜로테이션 abcDef 이다
+>3.  어퍼케이스 로테이션 Abcdef 클래스이름 쓸때 사용한다
+>4.  케밥로테이션 abc-def 이다
+>5.  class가 아닌 className을 사용하여야 한다
+
+
 ## 10월30일
 >1.  전시간에 코딩했던 영화앱 만들기 복습
 >2.  true false를 이용하여 isLodaing의  loading->ready 출력 
