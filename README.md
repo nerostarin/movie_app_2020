@@ -2,6 +2,13 @@
 ## Movie_App_2020
 
 React Js Foundamentals Course 2020
+## 11월13일
+>1.  npm install react-router-dom 설치
+>2.  home css에 미디어 쿼리 적용
+>3.  해쉬라우터와 기본 라우터를 활용하여 무비앱 제작
+>4.  네비게이션을 통하여 무비페이지와 어바웃 페이지를 오갈수있었음
+
+
 ## 11월06일
 >1.  콘솔로 movie의 데이터 값이 있는지 확인 후 페이지에 출력 
 >2.  카멜로테이션 abcDef 이다
