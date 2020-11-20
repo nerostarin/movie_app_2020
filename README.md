@@ -2,6 +2,12 @@
 ## Movie_App_2020
 
 React Js Foundamentals Course 2020
+## 11월20일
+>1.  네비게이션에 css를 적용
+>2.  리다이렉트 기능을 통하여 url주소를 통해들어오는 유저들을 홈으로 돌려보내는것을 구현
+>3.  깃허브에 영화앱 배포
+
+
 ## 11월13일
 >1.  npm install react-router-dom 설치
 >2.  home css에 미디어 쿼리 적용
